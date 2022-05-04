@@ -1,1 +1,8 @@
-
+cartopy
+siphon
+matplotlib
+pandas
+plotly
+scipy
+xarray
+numpy
