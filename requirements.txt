@@ -13,3 +13,4 @@ PyQt5_sip==4.19.18
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 webencodings==0.5.1
+siphon==0.9
